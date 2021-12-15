@@ -62,3 +62,4 @@ module.exports = {
   }
 };
 ```
+Need Support? Feel Free to Join our [Discord Server](https://discord.gg/jnzkPmukuv)!
