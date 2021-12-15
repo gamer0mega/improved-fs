@@ -1,0 +1,16 @@
+{
+  "name": "improved-fs",
+  "version": "0.0.1",
+  "description": "An addition for The Default NodeJS fs Module which is Promise-based and does not block The Event Loop.",
+  "main": "improved-fs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "improved",
+    "fs",
+    "async"
+  ],
+  "author": "gamer0mega",
+  "license": "MIT"
+}
