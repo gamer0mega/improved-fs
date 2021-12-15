@@ -2,7 +2,7 @@
 ## How Does it Work?
 All The Actions are being sent to a **fork** of The Process, Which Performs all The Actions Using The Default FS and returns The Result in a Promise.
 
-This is not the fastest way, but it is useful if You need to extract a Buffer from a large media file on a project such a Discord Bot without preventing other Events from stopping until The FS Finishes reading The File, Even with The Callback API.
+This is not the fastest way, but it is useful if You need to extract a Buffer from a large media file on a project such a Discord Bot, without preventing other Events from stopping until The FS Finishes reading The File, Even with The Callback API.
 
 ## Methods
 All The Synchronious Methods are being Automatically imported from The Default FS module But Without `Sync`.
